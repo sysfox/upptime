@@ -7,8 +7,6 @@ sites:
     url: https://blog.trfox.top
   - name: Github加速服务
     url: https://ghp.trfox.top
-  - name: Plog
-    url: https://t.trfox.top
   - name: 短链接服务
     url: https://short.trfox.top
   - name: Twikoo
