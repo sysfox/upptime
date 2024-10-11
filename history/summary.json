@@ -15,7 +15,9 @@
     "timeWeek": 359,
     "timeMonth": 367,
     "timeYear": 368,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-11": 0
+    }
   },
   {
     "name": "Github加速服务",
@@ -51,24 +53,28 @@
     "timeWeek": 359,
     "timeMonth": 367,
     "timeYear": 368,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-11": 0
+    }
   },
   {
     "name": "Twikoo",
     "url": "https://twikoo.trfox.top",
     "icon": "https://icons.duckduckgo.com/ip3/twikoo.trfox.top.ico",
     "slug": "twikoo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 115,
-    "timeWeek": 284,
-    "timeMonth": 340,
-    "timeYear": 329,
-    "dailyMinutesDown": {}
+    "time": 542,
+    "timeDay": 5239,
+    "timeWeek": 1544,
+    "timeMonth": 663,
+    "timeYear": 542,
+    "dailyMinutesDown": {
+      "2024-10-11": 0
+    }
   }
 ]
