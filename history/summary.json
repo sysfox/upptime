@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.trfox.top.ico",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 368,
     "timeDay": 346,
     "timeWeek": 359,
     "timeMonth": 367,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2024-10-11": 0
+      "2024-10-11": 5
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/short.trfox.top.ico",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 368,
     "timeDay": 346,
     "timeWeek": 359,
     "timeMonth": 367,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2024-10-11": 0
+      "2024-10-11": 5
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://twikoo.trfox.top",
     "icon": "https://icons.duckduckgo.com/ip3/twikoo.trfox.top.ico",
     "slug": "twikoo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 542,
-    "timeDay": 5239,
-    "timeWeek": 1544,
-    "timeMonth": 663,
-    "timeYear": 542,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 541,
+    "timeDay": 3647,
+    "timeWeek": 1424,
+    "timeMonth": 657,
+    "timeYear": 541,
     "dailyMinutesDown": {
-      "2024-10-11": 0
+      "2024-10-11": 5
     }
   }
 ]
