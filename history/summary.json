@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.trfox.top.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 368,
-    "timeDay": 346,
-    "timeWeek": 359,
-    "timeMonth": 367,
-    "timeYear": 368,
-    "dailyMinutesDown": {
-      "2024-10-11": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 366,
+    "timeDay": 268,
+    "timeWeek": 355,
+    "timeMonth": 362,
+    "timeYear": 366,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Github加速服务",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 421,
-    "timeDay": 307,
-    "timeWeek": 1005,
-    "timeMonth": 478,
-    "timeYear": 421,
+    "time": 418,
+    "timeDay": 282,
+    "timeWeek": 298,
+    "timeMonth": 476,
+    "timeYear": 418,
     "dailyMinutesDown": {}
   },
   {
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/short.trfox.top.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 368,
-    "timeDay": 346,
-    "timeWeek": 359,
-    "timeMonth": 367,
-    "timeYear": 368,
-    "dailyMinutesDown": {
-      "2024-10-11": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 366,
+    "timeDay": 268,
+    "timeWeek": 355,
+    "timeMonth": 362,
+    "timeYear": 366,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Twikoo",
@@ -63,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/twikoo.trfox.top.ico",
     "slug": "twikoo",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 541,
-    "timeDay": 3647,
-    "timeWeek": 1424,
-    "timeMonth": 657,
-    "timeYear": 541,
-    "dailyMinutesDown": {
-      "2024-10-11": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 540,
+    "timeDay": 3776,
+    "timeWeek": 1447,
+    "timeMonth": 663,
+    "timeYear": 540,
+    "dailyMinutesDown": {}
   }
 ]
