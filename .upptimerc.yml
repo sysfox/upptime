@@ -21,8 +21,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.github.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Teror的监测站
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Hello !**"
+  introMessage: 这里是**Teror Fox**的服务监控站，基于Uptime项目与Github Action实现监控
   navbar:
     - title: 状态
       href: /
