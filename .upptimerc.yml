@@ -11,6 +11,8 @@ sites:
     url: https://short.trfox.top
   - name: Twikoo
     url: https://twikoo.trfox.top
+  - name: Stats监控站
+    url: https://status.trfox.top
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
