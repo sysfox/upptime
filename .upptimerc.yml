@@ -3,11 +3,11 @@ owner: sysfox # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 sites:
-  - name: 博客
+  - name: Blog
     url: https://blog.trfox.top
   - name: Github加速服务
     url: https://ghp.trfox.top
-  - name: 短链接服务
+  - name: Short短链接服务
     url: https://short.trfox.top
   - name: Twikoo
     url: https://twikoo.trfox.top
