@@ -13,7 +13,7 @@
     "time": 710,
     "timeDay": 552,
     "timeWeek": 558,
-    "timeMonth": 710,
+    "timeMonth": 692,
     "timeYear": 710,
     "dailyMinutesDown": {}
   },
@@ -22,18 +22,20 @@
     "url": "https://blog.trfox.top",
     "icon": "https://icons.duckduckgo.com/ip3/blog.trfox.top.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 523,
-    "timeDay": 1637,
-    "timeWeek": 1064,
-    "timeMonth": 698,
-    "timeYear": 523,
-    "dailyMinutesDown": {}
+    "time": 527,
+    "timeDay": 1173,
+    "timeWeek": 1019,
+    "timeMonth": 712,
+    "timeYear": 527,
+    "dailyMinutesDown": {
+      "2025-03-05": 0
+    }
   },
   {
     "name": "Github加速服务",
@@ -49,7 +51,7 @@
     "time": 294,
     "timeDay": 256,
     "timeWeek": 186,
-    "timeMonth": 241,
+    "timeMonth": 247,
     "timeYear": 294,
     "dailyMinutesDown": {}
   },
@@ -67,7 +69,7 @@
     "time": 254,
     "timeDay": 390,
     "timeWeek": 254,
-    "timeMonth": 239,
+    "timeMonth": 244,
     "timeYear": 254,
     "dailyMinutesDown": {}
   },
@@ -85,7 +87,7 @@
     "time": 392,
     "timeDay": 441,
     "timeWeek": 308,
-    "timeMonth": 449,
+    "timeMonth": 448,
     "timeYear": 392,
     "dailyMinutesDown": {}
   },
@@ -103,7 +105,7 @@
     "time": 375,
     "timeDay": 965,
     "timeWeek": 500,
-    "timeMonth": 465,
+    "timeMonth": 478,
     "timeYear": 375,
     "dailyMinutesDown": {}
   }
