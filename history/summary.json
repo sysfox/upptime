@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.trfox.top.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "98.88%",
+    "uptime": "98.89%",
     "uptimeDay": "52.61%",
     "uptimeWeek": "93.23%",
     "uptimeMonth": "98.44%",
-    "uptimeYear": "98.88%",
+    "uptimeYear": "98.89%",
     "time": 567,
     "timeDay": 1251,
     "timeWeek": 1098,
@@ -97,9 +97,9 @@
     "url": "https://status.trfox.top",
     "icon": "https://icons.duckduckgo.com/ip3/status.trfox.top.ico",
     "slug": "stats",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -108,6 +108,8 @@
     "timeWeek": 529,
     "timeMonth": 494,
     "timeYear": 379,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-06": 0
+    }
   }
 ]
