@@ -22,17 +22,17 @@
     "url": "https://blog.trfox.top",
     "icon": "https://icons.duckduckgo.com/ip3/blog.trfox.top.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "52.61%",
+    "uptimeDay": "52.60%",
     "uptimeWeek": "93.23%",
     "uptimeMonth": "98.44%",
     "uptimeYear": "98.89%",
-    "time": 567,
-    "timeDay": 1251,
-    "timeWeek": 1098,
-    "timeMonth": 778,
-    "timeYear": 567,
+    "time": 602,
+    "timeDay": 1535,
+    "timeWeek": 1227,
+    "timeMonth": 830,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2025-03-06": 157,
       "2025-03-05": 525
@@ -98,18 +98,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.trfox.top.ico",
     "slug": "stats",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 392,
     "timeDay": 783,
     "timeWeek": 589,
     "timeMonth": 511,
     "timeYear": 392,
-    "dailyMinutesDown": {
-      "2025-03-06": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
