@@ -24,7 +24,7 @@
     "slug": "blog",
     "status": "up",
     "uptime": "97.76%",
-    "uptimeDay": "54.84%",
+    "uptimeDay": "55.27%",
     "uptimeWeek": "84.97%",
     "uptimeMonth": "96.54%",
     "uptimeYear": "97.76%",
@@ -100,19 +100,19 @@
     "url": "https://status.trfox.top",
     "icon": "https://icons.duckduckgo.com/ip3/status.trfox.top.ico",
     "slug": "stats",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 429,
-    "timeDay": 427,
-    "timeWeek": 767,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 432,
+    "timeDay": 476,
+    "timeWeek": 748,
     "timeMonth": 575,
-    "timeYear": 429,
+    "timeYear": 432,
     "dailyMinutesDown": {
-      "2025-03-10": 0
+      "2025-03-10": 6
     }
   }
 ]
