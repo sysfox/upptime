@@ -107,19 +107,19 @@
     "url": "https://status.trfox.top",
     "icon": "https://icons.duckduckgo.com/ip3/status.trfox.top.ico",
     "slug": "stats",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "96.95%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "94.95%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.93%",
     "time": 442,
-    "timeDay": 216,
-    "timeWeek": 379,
-    "timeMonth": 534,
+    "timeDay": 257,
+    "timeWeek": 388,
+    "timeMonth": 533,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2025-04-04": 44
+      "2025-04-04": 73
     }
   }
 ]
