@@ -1,7 +1,7 @@
 url: https://status.trfox.top
-status: up
-code: 200
-responseTime: 300
-lastUpdated: 2025-04-11T23:17:16.642Z
+status: down
+code: 502
+responseTime: 140
+lastUpdated: 2025-04-12T09:55:43.975Z
 startTime: 2025-01-22T17:35:39.269Z
 generator: Upptime <https://github.com/upptime/upptime>
